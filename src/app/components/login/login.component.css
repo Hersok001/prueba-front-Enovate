@@ -1,0 +1,9 @@
+/* Establece el tamaño máximo del video en dispositivos móviles */
+@media (max-width: 768px) {
+    .embed-responsive-16by9 {
+      max-width: 100%;
+    }
+    .embed-responsive-16by9 iframe {
+      max-width: 100%;
+    }
+  }

@@ -1,0 +1,11 @@
+/* Estilo para hacer el diálogo más pequeño */
+.small-dialog .swal2-popup {
+    max-width: 300px; /* Ajusta el ancho máximo según tus preferencias */
+  }
+  
+  /* Estilo para hacer el contenido del diálogo más pequeño */
+  .small-dialog {
+    font-size: 8px; /* Ajusta el tamaño de fuente según tus preferencias */
+    max-width: 100px;
+    color: blue !important;
+  }
